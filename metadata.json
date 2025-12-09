@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel - Smart Attendance",
+  "description": "Next-gen attendance system using QR identity and Gemini-powered Face Verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
